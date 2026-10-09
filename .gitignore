@@ -1,0 +1,21 @@
+# Python compiled files and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook auto-saved checkpoints (very important!)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Large data files (Optional: if your CSV files are huge, ignore them so you don't hit GitHub size limits)
+*.csv
+*.zip
+
+# Operating System junk
+.DS_Store
+Thumbs.db
